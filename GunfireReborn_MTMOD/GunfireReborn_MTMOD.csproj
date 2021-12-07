@@ -31,46 +31,36 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Assembly-CSharp">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\Assembly-CSharp.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="csharpdata">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\csharpdata.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="csharpdata, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\csharpdata.dll</HintPath>
     </Reference>
-    <Reference Include="Il2Cppmscorlib">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\Il2Cppmscorlib.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="Il2Cppmscorlib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\Il2Cppmscorlib.dll</HintPath>
     </Reference>
-    <Reference Include="MelonLoader">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\MelonLoader.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="MelonLoader, Version=0.4.3.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\MelonLoader.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="UnhollowerBaseLib">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnhollowerBaseLib.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="UnhollowerBaseLib, Version=0.4.15.4, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnhollowerBaseLib.dll</HintPath>
     </Reference>
-    <Reference Include="UnhollowerRuntimeLib">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnhollowerRuntimeLib.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="UnhollowerRuntimeLib, Version=0.4.10.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnhollowerRuntimeLib.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.CoreModule">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.CoreModule.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.IMGUIModule.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.PhysicsModule">
-      <HintPath>E:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.PhysicsModule.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>D:\SteamLibrary\steamapps\common\Gunfire Reborn\MelonLoader\Managed\UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
